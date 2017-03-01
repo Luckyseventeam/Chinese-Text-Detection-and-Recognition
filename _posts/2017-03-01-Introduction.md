@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Hand Tracking
-author: Luckyseventeam qianbaicence wuhanstudio
+title: Nothing Here
+author: Luckyseventeam qianbaicence wuhanstudio  
 ---
-Projects
+Not here
 
-### What's this project
------
-A Hand Tracking Project
